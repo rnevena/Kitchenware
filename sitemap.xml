@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/">
+	<url>
+	      <loc>http://kitchenware.epizy.com/index.php</loc>
+		  <lastmod>2021-03-8</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>1.0</priority>
+	 </url>	 
+	 
+	 <url>
+	      <loc>http://kitchenware.epizy.com/shop.php</loc>
+		  <lastmod>2021-03-8</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>1.0</priority>
+	 </url>	 
+	 
+	 <url>
+	      <loc>http://kitchenware.epizy.com/cart.php</loc>
+		  <lastmod>2021-03-8</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>0.5</priority>
+	 </url>	 
+	 
+	 <url>
+	      <loc>http://kitchenware.epizy.com/contact.php</loc>
+		  <lastmod>2021-03-8</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>0.5</priority>
+	 </url>	 
+
+     <url>
+	      <loc>http://kitchenware.epizy.com/register.php</loc>
+		  <lastmod>2020-03-11</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>0.3</priority>
+	 </url>	 
+
+	 <url>
+	      <loc>http://kitchenware.epizy.com/author.php</loc>
+		  <lastmod>2021-03-8</lastmod>
+		  <changefreq>monthly</changefreq>
+		  <priority>0.1</priority>
+	 </url>	 
+</urlset>
